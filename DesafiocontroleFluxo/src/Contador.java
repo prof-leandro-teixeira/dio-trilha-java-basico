@@ -6,7 +6,8 @@ public class Contador {
 
         int parametroUm = terminal.nextInt();
         int parametroDois = terminal.nextInt();
-
+     
+        
         try {
             //lógica de contagem
             contar(parametroUm, parametroDois);
