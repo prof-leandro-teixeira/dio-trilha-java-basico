@@ -1,0 +1,118 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PedraPapelAtaque",
+            "request": "launch",
+            "mainClass": "PedraPapelAtaque",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LigacaoTelefonica",
+            "request": "launch",
+            "mainClass": "LigacaoTelefonica",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileAleatorio",
+            "request": "launch",
+            "mainClass": "WhileAleatorio",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForArray",
+            "request": "launch",
+            "mainClass": "ForArray",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch QtdeVariaveis",
+            "request": "launch",
+            "mainClass": "QtdeVariaveis",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sigla",
+            "request": "launch",
+            "mainClass": "Sigla",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "conta-banco_cbe8354a"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "conta-banco_cbe8354a"
+        }
+    ]
+}

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        
+
         int numeroConta = 0;
         String agencia = "";
         String nomeCliente = "";
@@ -20,13 +20,13 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o número da conta: ");
         numeroConta = s.nextInt();
         System.out.println("Por favor, informe o valor de depósito para abertura da conta: ");
-        saldoConta = s.nextDouble();        
+        saldoConta = s.nextDouble();
 
         s.close();
 
-        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco."+
-        " Sua agência é " +agencia+", conta " +numeroConta+ " e seu saldo"+
-        saldoConta+" já está disponível para saque.");
+        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco." +
+                " Sua agência é " + agencia + ", conta " + numeroConta + " e seu saldo" +
+                saldoConta + " já está disponível para saque.");
 
     }
 }
