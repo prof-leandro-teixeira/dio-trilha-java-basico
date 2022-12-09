@@ -12,22 +12,20 @@ public class Fabrica {
 		Telefone tel = new TelefoneDiscadorDelta();
 		Navegador web = new NavegadorPrincipal();
 		ReprodutorMusical audio = new ReprodutorMaster();
-		
+
 		System.out.println("Vamos simular algumas ações em um aparelho celular.");
 		System.out.println("APARELHO LIGADO.");
-		
-		
+
 		audio.selecionarMusica();
 		audio.tocarMusica();
-		
-		
+
 		web.adicionarAbaNavegador();
 		web.atualizarAbaNavegador();
-		
+
 		System.out.println("\nO telefone está tocando");
 		tel.atenderLigacao();
-		
+
 		System.out.println("\nAlerta de ligação perdida.");
 		tel.iniciarCorreioDeVoz();
-		}
+	}
 }
