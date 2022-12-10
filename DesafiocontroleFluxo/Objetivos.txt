@@ -1,7 +1,0 @@
-Projeto verifica entrada de dois valores.
-
-1 - Caso valor 1 menor que valor 2:
-Imprime todos os valores do menor para o maior.
-
-2 - Caso valor 2 menor que valor 1:
-Informa ao usuário que não é possível efetuar a operação.
