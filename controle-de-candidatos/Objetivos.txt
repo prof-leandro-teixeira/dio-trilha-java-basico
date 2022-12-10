@@ -1,0 +1,6 @@
+Projeto simula um processo seletivo.
+
+De acordo com a pretenção salarial do candidato o sistema:
+1 - orienta ligar;
+2 - orienta fazer nova proposta;
+3 - classifica os candidatos;
