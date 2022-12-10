@@ -1,0 +1,13 @@
+Projeto cria uma conta e controla movimento de entrada e saída de conta.
+
+Neste banco há:
+1 - Cria uma conta;
+
+Nas contas:
+1 - pode fazer depósito;
+2 - pode fazer retirada;
+3 - pode fazer tranferências;
+4 - verifica se a conta está no cheque especial;
+
+No banco:
+1 - imprime o cadastro e mostra o saldo.

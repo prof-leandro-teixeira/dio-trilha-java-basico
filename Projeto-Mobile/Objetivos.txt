@@ -1,0 +1,5 @@
+Projeto simula 3 aplicativos em um celular.
+
+1 - app de telefonar
+2 - app de tocar música
+3 - app de navegar na internet

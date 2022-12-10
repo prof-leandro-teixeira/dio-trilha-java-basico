@@ -1,0 +1,14 @@
+Projeto Banco Digital.
+
+Neste banco há:
+1 - Conta corrente;
+2 - Conta poupança;
+
+Nas contas:
+1 - pode fazer depósito;
+2 - pode fazer retirada;
+3 - pode fazer tranferências;
+
+No banco:
+1 - imprime o extrado de movimentos.
+
